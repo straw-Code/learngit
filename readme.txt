@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of file.
 new beginning
 --no-ff
+issue-101
